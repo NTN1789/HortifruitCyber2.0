@@ -1,0 +1,60 @@
+main {
+
+  position: relative;
+  right: 350px;
+    width:100% ;
+    flex-wrap: wrap;
+    padding: 450px;
+
+    top: -70px;
+     
+}
+img{
+    width: 20vh;
+    padding: 3.5px;
+   
+ 
+    
+  }
+
+  .carrinhoContainer{
+    position: relative;
+    left: 32rem;
+    height: 68vh;
+    margin: 50px;
+    top: -75vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #F7E0CE;
+    border-radius: 75px;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  
+.carrinho {
+  width: 50%;
+  text-align: center;
+  background-color: #D3C5BB;
+  padding: 10px;
+  border-radius: 30px;
+}
+  
+
+  .botoes {
+    background-color: #D3C5BB;
+    position: relative;
+    left:38rem ;
+    top: -82.5vh;
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+  
+   
+  
+  }
+  
+
+
+

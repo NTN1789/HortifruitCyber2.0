@@ -1,0 +1,54 @@
+*{
+    margin:0 ;
+    padding:0 ;
+    box-sizing:border-box ;
+}
+
+
+.header{
+   
+    width: 100%;
+    display:flex;
+    top: 75px;
+   
+   
+}
+
+h1, h2 {
+    color: white;
+  }
+  
+  h1 {
+    position: relative;
+    font-size: 4.5rem;
+    text-transform: uppercase;
+    padding: 30px 85px;
+    top: 7.2rem;
+  }
+  
+
+
+body{
+
+    background-color: tomato;
+    width: 100%;
+}
+
+.logo{
+    position: relative;
+   top: 14rem;
+    right: 7.0em;
+    font-size: 3.5rem;
+}
+
+
+p{
+        position: relative;
+        top: 21rem;
+        margin-left:10rem;
+        text-transform: uppercase;
+        color: white;
+        font-size: 4.5rem;
+     
+
+}
